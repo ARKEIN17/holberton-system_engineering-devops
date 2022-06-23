@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 # displays numbers from 1 to 20.
 
-C=1
+C=0
 while [ $C -lt 20 ]
 do
     ((C++))
