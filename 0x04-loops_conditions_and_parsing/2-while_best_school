@@ -1,0 +1,9 @@
+#!/bin/bash
+# displays Best School 10 times.
+
+c = "best school"
+while ($c <= 9)
+ do
+ echo $c
+ ((c++))
+ done
