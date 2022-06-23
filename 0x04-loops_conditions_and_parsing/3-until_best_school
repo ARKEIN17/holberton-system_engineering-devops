@@ -1,6 +1,5 @@
-#!/usr/bin/bash
+#!/usr/bin/env bash
 # displays Holberton School 10 times.
-
 C=10
 
 until [ $C -lt 1 ]
