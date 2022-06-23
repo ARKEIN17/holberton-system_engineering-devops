@@ -2,6 +2,7 @@
 # displays Holberton School 10 times.
 
 C=10
+
 until [ $C -lt 1 ]
 do
     echo "Best School"
