@@ -10,7 +10,7 @@ do
         echo "bad luck"
     elif [[ $C -eq 8 ]]
     then
-        echo "bad luck"
+        echo "good luck"
     else
         echo "Best School"
     fi
