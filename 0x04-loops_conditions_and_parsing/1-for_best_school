@@ -1,6 +1,7 @@
-#!/bin/bash
-# displays Best School 10 times.
-for (( c=0; c<=9; c++ ))
-do  
-  echo "Best School"
+#!/usr/bin/env bash
+# displays Holberton School 10 times.
+
+for (( c=1; c<=10; c++ ))
+do
+    echo "Holberton School"
 done
